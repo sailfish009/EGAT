@@ -7,7 +7,8 @@ This repository contains the official implementation of our paper *"EGAT: **E**d
 We implemented our method using PyTorch and Deep Graph Library (DGL). Please install these two for successfully running our code. Necessary installation instructions are available at the following links-
 1. [Python 3.6 or later version](https://www.python.org/downloads/)
 2. [PyTorch](https://pytorch.org/get-started/locally/#start-locally)
-3. [Deep Graph Library](https://www.dgl.ai/pages/start.html)
+3. [Deep Graph Library](https://github.com/dmlc/dgl)
+
 
 ## Download pretrained-model weights:
 ### ProtBERT model weight
